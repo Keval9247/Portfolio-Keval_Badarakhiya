@@ -22,11 +22,8 @@ Welcome to GrocerGo, a full-featured eCommerce web application designed for a sm
 - **Analytics Dashboard :** Track sales and manage inventory.
 
 
-## Tech Stack
+## Tech Stack :
 
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
 
 ### 🌐 Frontend :
 - **React & Redux :** For a seamless UI and state management.
