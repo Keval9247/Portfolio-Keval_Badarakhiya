@@ -6,10 +6,6 @@ Welcome to my personal portfolio website, which showcases my work, skills, and p
 
 
 
-## Contact  📞
-
-
-
 
 ## 📄 License
 
