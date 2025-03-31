@@ -9,13 +9,6 @@ Welcome to my personal portfolio website, which showcases my work, skills, and p
 ## Contact  📞
 
 
-#### Connect with me:
-
-- **GitHub** : https://github.com/Keval9247
-- **LinkedIn** : https://www.linkedin.com/in/keval-badarakhiya-879443219
-- **Instagram** : https://www.instagram.com/_keval_._05/
-- **Facebook** : https://www.facebook.com/KevalBadarakhiya
-
 
 
 ## 📄 License
